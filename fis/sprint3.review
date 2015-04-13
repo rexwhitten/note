@@ -1,0 +1,50 @@
+Sprint 3 Review 
+==============================================================================
+
+# 4/13/2016  -  Sprint 3 Review Meeting 
+
+# Need to refresh the latest version of the Application, for sprint #3
+
+# Action : Review the UI backlog items. [HIGH]
+
+# Action : Review Drill In's tasks (Get these implemente) [HIGH]
+
+# Action : Paging needs to read  X of Y
+
+# Note : Testing took more time then thought, especially on the UI / Responsivness 
+
+# Action : Take a look at the bottom grey bar that keeps showing up ( this may get removed )
+
+
+
+Sprint 4 - This Week 
+===============================================================================
+# Process : We need to have desing artifacts that back up what we have done, and what we know. We are looking bad.
+
+# Action : Drill In's need to be implemented in a simple way to map discretely. 
+
+# Action : FIS wants to implement just 10 rows on the grid, and then implement a new Tab View. 
+
+# Action : Implement the SecurityFilter.cs functionality (this is back log item )
+
+# Action : Default to 10 records per view
+
+# Action : Need to implement a Web Api Endpoint (Lets make a Web Api) 
+
+# Action : Drill In's - Indicators are easy (for the relevant ones)
+
+# Action : Drill In's - Charts will require some way to add an on click event to the canvas, there does seem to be a way to do this, this just needs to be researched a bit. 
+
+# Action : Design and spec out a common query language to be used by all the devices. (DQL)::(XYZ)
+         - Spend an hour to design and spec out a way to handle this. 
+	 - Drill-in's : to do something (Column filters)
+
+# Action : All Dashboard Items will need to have the notion of a clickable event that takes them to the GridView. Lets Implement then as a DashboardItemViewModel (Base ViewModel that cna handle all of the functionality, that we need to invoke a query)
+
+# JavaScript Post a Query to the Controller, that will hydrate a Linq Query from Script. 
+
+
+
+
+
+

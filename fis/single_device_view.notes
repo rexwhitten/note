@@ -1,0 +1,15 @@
+Single Device View 
+=============================================================
+- Based on the mockup (get this from PAtrick)
+- This will be a POST Operation, and will be our first mutable system 
+- This will require bootstrap.ui.tweaks to make sure that we are using the FIS style. 
+- This will reuiqre Audits ( 1)
+- If possible get this to download as a pdf 
+- Logging will need to be included here. 
+- Estimate: 8 hours ( or less ) 
+
+All changes are immediate upon editing things on the page. (Instant gradification)
+- All changes are final and immediate. 
+- Most of this data comes from the Asset Data. 
+
+

@@ -1,0 +1,24 @@
+
+Grid Tabs 
+========================================
+- FIS has created the concept of a "Show nad Hide Toggle system"
+- Create Nav's above the table to implement a show and hide 
+- Table Cells in the category of the nav tab will need to be hidden/shown 
+Est: 2 Hours
+
+
+Export to CSV/Excel 
+Est: 3 Hours - Implement the capability to return CSV from the server-side. 
+- Must return the grid query resultsets as a CSV File.
+- Note totally important. But we are going to get it in!!
+
+- Add a Reset button to the filters 
+- Add a "Query Button" that engages the query editor ::()::
+- All Queries will start from the query subset.
+- This is a common dashboard pattern.
+- This should include the simple sorting and filtering. ::():: 
+
+
+Filtering and Sorting 
+========================================= 
+- This item will be needed in this, and it will be needed soon (Incorporate this into the)
