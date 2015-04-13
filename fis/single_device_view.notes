@@ -13,3 +13,13 @@ All changes are immediate upon editing things on the page. (Instant gradificatio
 - Most of this data comes from the Asset Data. 
 
 
+Clicking on a record in the device gird will get you to a device id.
+
+This could be built in conjuction with the details grid, implement animate.css slideLeft/Right for the Table to Details, his waywe can cache the result sets locally to save on server load.
+With a grid update to the affected record.
+
++ Effecient querying.
++ Effeciant JSON Payload to load the details and then to cache this. 
+
++ Plus little validation and the page.
++ Plus unit tests for the new Service and repository methods.
