@@ -1,0 +1,22 @@
+
+var query = {
+   from: "Device",
+   select: [ 
+	"column",
+	"column",
+	"column"
+   ], 
+   orderby: [
+   	"asc" : [ "column"],
+	"desc" : [" column"]
+   ],
+
+   filters : [
+	{ column: "column", operator : "like" , value: "some value" }
+   ]
+}
+
+// Take notes from SPARQL 
+// -----------------------------------------------------------------
+
+
